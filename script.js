@@ -13,7 +13,9 @@ document.addEventListener('DOMContentLoaded', () => {
         'yorum': 'yüm',
         'baba': 'babiş',
         'saç kurutucu': 'saç kuruyutucu',
-        'ayıp': 'ayip'
+        'ayıp': 'ayip',
+        'salak': 'amın düdüğü',
+        'mal': 'amın düdüğü'
     };
 
     const angerPhrases = [
